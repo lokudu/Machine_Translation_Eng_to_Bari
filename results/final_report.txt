@@ -1,21 +1,21 @@
 ======================================================================
 ENGLISH TO BARI TRANSLATION - FINAL REPORT
-Generated: 2026-06-12 06:37:05
+Generated: 2026-06-12 12:40:32
 ======================================================================
 
 DATA STATISTICS
 ----------------------------------------
-Training pairs: 4,856
-Development pairs: 608
-Test pairs: 608
-Average English length: 22.5 words
-Average Bari length: 27.3 words
+Training pairs: 4,685
+Development pairs: 586
+Test pairs: 586
+Average English length: 21.8 words
+Average Bari length: 26.4 words
 
 TEST SET RESULTS
 ----------------------------------------
-GREEDY: BLEU=0.26, chrF=6.58
-BEAM_3: BLEU=0.18, chrF=7.23
-BEAM_5: BLEU=0.25, chrF=7.49
+GREEDY: BLEU=0.11, chrF=5.80
+BEAM_3: BLEU=0.10, chrF=6.56
+BEAM_5: BLEU=0.11, chrF=6.97
 
 VISUALIZATIONS GENERATED
 ----------------------------------------

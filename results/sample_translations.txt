@@ -1,16 +1,16 @@
 ====================================================================================================
 ENGLISH TO BARI TRANSLATION - SAMPLE OUTPUTS
-Generated: 2026-06-12 06:27:18
+Generated: 2026-06-12 12:41:54
 Total Samples: 20
 ====================================================================================================
 
 SUMMARY STATISTICS
 --------------------------------------------------
-Average Source Length:      21.4 words
-Average Reference Length:   25.0 words
-Average Greedy Length:      12.6 words
-Average Beam-3 Length:      13.6 words
-Average Beam-5 Length:      14.4 words
+Average Source Length:      18.8 words
+Average Reference Length:   24.4 words
+Average Greedy Length:      7.7 words
+Average Beam-3 Length:      9.0 words
+Average Beam-5 Length:      9.7 words
 
 ========================================================================================================================
 SAMPLE TRANSLATIONS TABLE
@@ -18,26 +18,26 @@ SAMPLE TRANSLATIONS TABLE
 
 ID   | Source (EN)                              | Reference (BA)                      | Greedy               | Beam-5              
 ------------------------------------------------------------------------------------------------------------------------
-110  | Are they Hebrews? So am I. Are they I... | Lepeŋat ŋona a ŋutu ti Ebere le?... | A a ko ta,',, na,... | A a '' ko,, adi D...
-11   | In speaking of the angels he says, “H... | A Ŋun jambi i kulya ti malaikaji... | A ŋutu waddi adi,... | A ŋutu waddi ko a...
-185  | and said, “Give me also this ability ... | a kulyani adi, Tiki ta nan ŋina ... | A a kulyani lepeŋ... | A a kulyani lepeŋ...
-78   | Obey your leaders and submit to their... | Twöji ta temejik kasu ko kugge t... | A a waddi adi,,,,... | A Yesu waddi adi,...
-539  | Many of the Samaritans from that town... | A ŋutu ti Samaria lo gwon i ŋinu... | A a ŋutu '' i, a,... | Ama a ŋutu logon ...
-183  | “Show me a denarius. Whose portrait a... | Kweki ta nan gurusutöt. Ŋina ŋöj... | A nagon gwe ko i,... | A nagon gwe ko i ...
-450  | Now, Lord, consider their threats and... | Nyenagon pon Matat, mete met tok... | Ti ko lo a, ko, a... | Ti ko a lobut ko,...
-228  | If you believed Moses, you would beli... | Ko ta ködyö a yup Mose, a ta köd... | A a '', i,,,, a, ... | A a waddi adi,, '...
-83   | But he was not strong enough, and the... | ama a se iŋge tela, a se köti gw... | A ko ŋutu '' i na... | A i nagon '' ko, ...
-77   | He chose to be ill-treated along with... | a lepeŋ wulundye sasanya ko ŋutu... | Ti ko lo kobörik,... | Ti ŋutu lo ko i, ...
-291  | Then Jesus came from Galilee to the J... | Nyena a Yesu ŋiu kaŋo i Galilaya... | Ama ta ' ŋutu i, ... | Ama ŋutu ta '' i ...
-478  | Joseph, a Levite from Cyprus, whom th... | A lele ŋuto kata karin kanyit a ... | A na ŋutu ko i, a... | A i na ko nagon a...
-189  | The woman was given the two wings of ... | A ŋina ŋuto tikine köpukön murek... | Ama a ' i ti, kod... | Ama ko ti '' i na...
-287  | We are confident, I say, and would pr... | Yi totopurwan, a yi 'deke ŋiörö ... | Ama ko '', i na a... | Ama ŋutu '' ko, i...
-193  | For while we are in this tent, we gro... | Kogwon na gwondi ködudwöIön kaŋ ... | Ti ko '', a ti i,... | Ti ko ŋuto '', a ...
-357  | The apostles said to the Lord, “Incre... | A luyökie kulyani ko Matat adi, ... | Ama a ta kobörik,... | Ama a ti ta kobör...
-245  | who through faith conquered kingdoms,... | Ko ŋina yupet, a kilo ŋutu iŋge ... | Ama a lo ko,' i, ... | Ama a ŋutu lo', i...
-597  | For he knew it was out of envy that t... | Kogwon nye a den 'bura adi lepeŋ... | Ti ta a '' i na, ... | Ti ta a '' i, nab...
-409  | I, Paul, write this greeting in my ow... | Nan Paulo lo wurjö ŋina roman ko... | Ti ko ti na ta, a... | Ti ko ti na ta, i...
-497  | “You are the salt of the earth. But i... | Ta a 'balaŋ na na kak. Ama ko 'b... | A ta ko, a i na, ... | Gwe ta a ko, i na...
+520  | keep reminding them of these things. ... | Yeŋe toyiyikindyö ŋutu kulök kil... | Ama a '', kiden,,... | Ama a '' lo, kide...
+285  | if anyone speaks in a tongue, two — o... | A ko lele ŋuto jambu ko kutuk na... | Köti a '' i,dede ... | aöidio ta '' i na...
+512  | i urge, then, first of all, that requ... | Nyena a kokwe na ŋo liŋ, nan juj... | Ama ŋutu jore ko'... | Ama ŋutu jore '' ...
+332  | when he saw jesus passing by, he said... | a na lwöŋöddi Yesu nyona nu, a Y... | Nyenagon ta,' kob... | Nyenagon ta,' kob...
+211  | “blessed are you when people insult y... | Ta a kalyöŋök ko ŋutu momoroju t... | Ama a Petero ko',... | Ama a lo ko',, ad...
+91   | only hold on to what you have until i... | ama tuŋ moke ta ŋo nagon kasu ki... | A a '' ko, kulya,... | A a ŋutu '' kulya...
+300  | the centurion replied, “lord, i do no... | Ama a duma lo kamörök waddi lepe... | Köti a köti',, ŋu... | Köti a köti' lo, ...
+182  | then those also who have fallen aslee... | Köti ko sona, se logon a doto ko... | Luŋasirik a, ta a... | Luŋasirik ta, ko ...
+544  | e) arrest and imprisonment:              | e) moka ko tiki i kadi rereket:     | ŋun a ŋun ko lo ŋun  | ŋun ŋun a ko ŋun ...
+138  | was there ever a prophet your fathers... | Lele lo nebijin ŋona kata logon ... | Nyenagon a '', ko... | Nyenagon a '' ko,...
+545  | the wall was made of jasper, and the ... | A gorom nagon a mariŋ 'duköni ko... | Nyenagon ŋutu ''d... | Nyenagon a ''dede...
+71   | “so he called in each one of his mast... | Nyena a nye luŋgi ŋutu liŋ geleŋ... | A a '' ki, i na. ... | Kine a '' ki, i n...
+395  | to this very hour we go hungry and th... | Tojo ko na diŋit yi gwon ko mago... | Ko a gwon kobörik... | Ko ŋutu gwon kobö...
+235  | with many other words he warned them;... | A lepeŋ iŋge tokurukindyö lepeŋa... | Ta a, adi,,,,, ko... | Ta a köti adi,,,,...
+423  | the sixth angel sounded his trumpet, ... | A kirut malaikatat tobuker lo ku... | A ŋutu '' ki, adi... | A ŋutu '' ki kuly...
+156  | then he said to his disciples, “the h... | A kirut nye kulyani ko ŋutu kany... | A ta ko, adi '',,... | A ta köti ko adi,...
+210  | now it is god who makes both us and y... | ŋilo a ŋun logon a togo'yu yi se... | Ama a '' ko,,,,,,... | Ama adi '' ko, ti...
+372  | i looked, and there before me was a w... | A kirut nan meddi 'diko nakwe gw... | A a ko', i na,, ŋ... | A ŋutu a' ko i, g...
+502  | nor to devote themselves to myths and... | Ko ti se gwe ti yiŋga likikirilö... | A a waddi ko adi,... | A a waddi ko adi,...
+183  | b) descendants of jacob                  | b) nyakwariat ti Yakobo             | Nyenagon a ko' i,    | Nyenagon a ko' i,.  
 
 
 ====================================================================================================
@@ -45,304 +45,304 @@ DETAILED SAMPLES (FULL TEXT)
 ====================================================================================================
 
 ================================================================================
-SAMPLE 110
+SAMPLE 520
 ================================================================================
-Source (EN):      Are they Hebrews? So am I. Are they Israelites? So am I. Are they Abraham’s descendants? So am I.
-Reference (BA):   Lepeŋat ŋona a ŋutu ti Ebere le? Nan köti a Eberetyo. Lepenat ŋona a ŋutu ti Yisaraele le? Nan köti a Yisaraeletyo. Lepeŋat ŋona a nya- kwariat ti Abarayama le? Nan köti a nyakwari lo Abarayama.
+Source (EN):      keep reminding them of these things. warn them before god against quarrelling about words; it is of no value, and only ruins those who listen.
+Reference (BA):   Yeŋe toyiyikindyö ŋutu kulök kilo kulyaesi. Sare sar lepeŋat go ko ŋun i komoŋ anyen se gwon ti rerenya i kulya ti jamesi. Rerenya gwoso ŋina 'bak 'bulit, a körji ŋutu lo yiŋga kulo.
 
 Translations:
-  Greedy:   A a ko ta,',, na, adi Do,,,,,, do,,,,,,,,,,,,,.
-  Beam-3:   A a '' ko, adi Do ta,,,,,,,,,,,, do,,,,,, na,,,,,.
-  Beam-5:   A a '' ko,, adi Do ta,,,,,,,,,,, do, nadit?, nye waddi ko,,,,,,,.
+  Greedy:   Ama a '', kiden,, kulye adi,,,,,, ŋurupö,,,,,,,,,,,,,,,,,,,,,,,,, ko,,,,,,,
+  Beam-3:   Ama a '' lo, kiden, kulye,,,,,,,,,,,, ŋurupö,,,,,,,,,,,,,,,,,,,,, ko,,,,,,
+  Beam-5:   Ama a '' lo, kiden, kulye,,,,,,,,,,,, ŋurupö,,,,,,,,,,,,,,,,,,,,, ko,,,,,,
 
 Length (words):
-  Source: 19 | Reference: 36
-  Greedy: 8 | Beam-3: 9 | Beam-5: 12
+  Source: 25 | Reference: 34
+  Greedy: 8 | Beam-3: 8 | Beam-5: 8
 
 ================================================================================
-SAMPLE 11
+SAMPLE 285
 ================================================================================
-Source (EN):      In speaking of the angels he says, “He makes his angels winds, his servants flames of fire.”
-Reference (BA):   A Ŋun jambi i kulya ti malaikajin adi, Nye a kondya malaikajin kanyit a köbuŋötön, a kondi kakitak kanyit gwoso ŋorju na ŋedepa ti kimaŋ.
+Source (EN):      if anyone speaks in a tongue, two — or at the most three — should speak, one at a time, and someone must interpret.
+Reference (BA):   A ko lele ŋuto jambu ko kutuk nagon ka'de, a ti ŋutu murek kode ti lwöŋ musala ködyö jambi a kiyukan, a lele ŋuto agu ködyö nyönyöggi kulya na jama kune;
 
 Translations:
-  Greedy:   A ŋutu waddi adi, a '' ko i,, nabut, ko lorok, ko,, ko. ko nagon a lwölwöŋ ko
-  Beam-3:   A ŋutu waddi ko adi, '' i na nagon a ko lorok,, ko,, ko lwölwöŋ ko,, ko., ta kobörik
-  Beam-5:   A ŋutu waddi ko adi, '' i na nagon a kobörik ko,, ko,, ko lorok, ko., ta ko ko lwölwöŋ
+  Greedy:   Köti a '' i,dede ko, ŋurupö,,,,,,,,,, adiBayin, ti,,,,,,,,,,,,, ta,,
+  Beam-3:   aöidio ta i ',dededan ko,, ŋurupö,,,,,,,,,,,,,,,,Bayin,,,, ti,,,,,,,,,
+  Beam-5:   aöidio ta '' i na,, ko, ŋurupö,,,,,,, adi LuŋasirikBayin a ti,,,,,,,,,,,,,,,,Bayin kode.
 
 Length (words):
-  Source: 17 | Reference: 25
-  Greedy: 18 | Beam-3: 19 | Beam-5: 20
+  Source: 24 | Reference: 31
+  Greedy: 9 | Beam-3: 7 | Beam-5: 12
 
 ================================================================================
-SAMPLE 185
+SAMPLE 512
 ================================================================================
-Source (EN):      and said, “Give me also this ability so that everyone on whom I lay my hands may receive the Holy Spirit.”
-Reference (BA):   a kulyani adi, Tiki ta nan ŋina riŋit köti, anyen ko nan a sopakindya könisi kwe ko lele ŋuto ki, a nye mo wuji Mulökötyo Loke.
+Source (EN):      i urge, then, first of all, that requests, prayers, intercession and thanksgiving be made for everyone —
+Reference (BA):   Nyena a kokwe na ŋo liŋ, nan jujuja do adi, ti ta momo'yi ŋun, ko ti ta kwakwaddi kwakwaddu, ko ti ta pije lepeŋ ko tindi ta lepeŋ tinate i kulya ti ŋutu liŋ,
 
 Translations:
-  Greedy:   A a kulyani lepeŋ, adi Do,,, ko,,,,,,,,,,,,, ŋuto ko,,. a '', na
-  Beam-3:   A a kulyani ko adi,,,,,,,,,,,,,,,,,,, ŋuto '' i na,, ti,.
-  Beam-5:   A a kulyani lepeŋ, adi Do,,, ko,,,,,,,,,,,,, ŋuto ko,, ko,, ti,.
+  Greedy:   Ama ŋutu jore ko' i, a nu, yidi,,,,,,,,,,,,,,, ta ti,,
+  Beam-3:   Ama ŋutu jore '' i ko,, nu a yidi luŋasirik,,,,,,,,,, ta, ti,,,,, kobörik.
+  Beam-5:   Ama ŋutu jore '' i ko,, nu a,di,,,,,,,,,,, yi kobörik ko,,, ti.
 
 Length (words):
-  Source: 21 | Reference: 26
-  Greedy: 12 | Beam-3: 10 | Beam-5: 11
+  Source: 17 | Reference: 34
+  Greedy: 10 | Beam-3: 13 | Beam-5: 12
 
 ================================================================================
-SAMPLE 78
+SAMPLE 332
 ================================================================================
-Source (EN):      Obey your leaders and submit to their authority. They keep watch over you as men who must give an account. Obey them so that their work will be a joy, not a burden, for that would be of no advantage to you.
-Reference (BA):   Twöji ta temejik kasu ko kugge ta lepeŋat, kogwon lepeŋat titi ta gwoso ŋutu logon mo pipiya i kulya kasu. Ti ta gwe ti todelyaju lepeŋat anyen se kita ko lyöŋön, kogwon ko se kita ko 'du'duatu a kine kulya tine ŋarakindya ta.
+Source (EN):      when he saw jesus passing by, he said, “look, the lamb of god!”
+Reference (BA):   a na lwöŋöddi Yesu nyona nu, a Yoane dirje lepeŋ, a kulyani adi, Meddi ta Kiloloŋ lo ŋun malu!
 
 Translations:
-  Greedy:   A a waddi adi,,,, ko,,,,,,,,,,,, ko,,, ko,, ko,, ko, i na.
-  Beam-3:   A a waddi adi,,,, ko,,,,,,,,,,,, ko,, ko,, ko,, ko, i na ti'.
-  Beam-5:   A Yesu waddi adi, a,,, ko,,,,,,,,,,, ko,,, ko,, ko,, ko, i na ti.
+  Greedy:   Nyenagon ta,' kobörik,,, ta,,,,, ti,,, an ' i. a
+  Beam-3:   Nyenagon ta,' kobörik mugun, ta,,, ',dede an i ti,,,,,,.
+  Beam-5:   Nyenagon ta,' kobörik mugun i na geleŋ. a ŋuto ködyö ',dedekan ti,,,, an
 
 Length (words):
-  Source: 42 | Reference: 43
-  Greedy: 11 | Beam-3: 12 | Beam-5: 13
+  Source: 13 | Reference: 19
+  Greedy: 9 | Beam-3: 9 | Beam-5: 13
 
 ================================================================================
-SAMPLE 539
+SAMPLE 211
 ================================================================================
-Source (EN):      Many of the Samaritans from that town believed in him because of the woman’s testimony, “He told me everything I ever did.”
-Reference (BA):   A ŋutu ti Samaria lo gwon i ŋinu köji kulu yubbe Yesu, kogwon ŋuto na aje tokorju adi, Lepeŋ aje takin nan ŋo liŋ nagon nan aje kon kune.
+Source (EN):      “blessed are you when people insult you, persecute you and falsely say all kinds of evil against you because of me.
+Reference (BA):   Ta a kalyöŋök ko ŋutu momoroju ta, ko a sasandi ta, ko a ŋökindye ta kulya narok liŋ ka'de ka'de kogwon kulya kwe.
 
 Translations:
-  Greedy:   A a ŋutu '' i, a, a, a, a, a lorok,,, ko,,,. a ŋuto a lwölwöŋ,,
-  Beam-3:   A a ŋutu '', i na a a, a, a, a lorok,, a, ko,,,,,. nagon ' a lwölwöŋ,
-  Beam-5:   Ama a ŋutu logon '', i na, a a, a, a lorok,, a,, ko,,,,,. nagon ' a lwölwöŋ,
+  Greedy:   Ama a Petero ko',,,,, murek,,,,,,,; a köti ko adi,,,, ti,,,,,,,,
+  Beam-3:   Ama a Petero ko',, adi Ko ti murek,,,,,,,,,,,; adi,,,,,,,,,,,,,,
+  Beam-5:   Ama a lo ko',, adi Ko ti,,,,,,,,,,,,,,,,,,,;di ködyö ',,,,,,,,,,,
 
 Length (words):
-  Source: 22 | Reference: 29
-  Greedy: 16 | Beam-3: 18 | Beam-5: 18
+  Source: 21 | Reference: 23
+  Greedy: 10 | Beam-3: 9 | Beam-5: 9
+
+================================================================================
+SAMPLE 91
+================================================================================
+Source (EN):      only hold on to what you have until i come.
+Reference (BA):   ama tuŋ moke ta ŋo nagon kasu kine go, tojo nan a 'dur.
+
+Translations:
+  Greedy:   A a '' ko, kulya,,,,, yi ti,,.
+  Beam-3:   A a ŋutu '' kulya, ko,,, adi Kulo ⁇  yi ko ti.
+  Beam-5:   A a ŋutu '' kulya, ko,,, adi Kulo ⁇  yi ko ti.
+
+Length (words):
+  Source: 10 | Reference: 13
+  Greedy: 7 | Beam-3: 12 | Beam-5: 12
+
+================================================================================
+SAMPLE 300
+================================================================================
+Source (EN):      the centurion replied, “lord, i do not deserve to have you come under my roof. but just say the word, and my servant will be healed.
+Reference (BA):   Ama a duma lo kamörök waddi lepeŋ adi, Matat, nan ti jukin i ruköddu na do köyö mede; ama tuŋ jamundye kulyaet a kölipönit lio de kele kelan.
+
+Translations:
+  Greedy:   Köti a köti',, ŋutu,, murek,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ko,,,,,,,
+  Beam-3:   Köti a köti' lo,, ŋutu,, murek,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ko,,,,,
+  Beam-5:   Köti a köti' lo, i na, ŋutu murek,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ko,,,,
+
+Length (words):
+  Source: 26 | Reference: 28
+  Greedy: 6 | Beam-3: 7 | Beam-5: 9
+
+================================================================================
+SAMPLE 182
+================================================================================
+Source (EN):      then those also who have fallen asleep in christ are lost.
+Reference (BA):   Köti ko sona, se logon a doto ko Kristo i mugun kilo aje kakarju.
+
+Translations:
+  Greedy:   Luŋasirik a, ta adi,,, '',,, ko,,,,,.
+  Beam-3:   Luŋasirik a, ta kobörik,,,,,,,,,,, ''.,, ŋutu logon '!
+  Beam-5:   Luŋasirik ta, ko adi,, '',,,,,,,,, a. ŋutu logon ' i...
+
+Length (words):
+  Source: 11 | Reference: 14
+  Greedy: 6 | Beam-3: 8 | Beam-5: 10
+
+================================================================================
+SAMPLE 544
+================================================================================
+Source (EN):      e) arrest and imprisonment:
+Reference (BA):   e) moka ko tiki i kadi rereket:
+
+Translations:
+  Greedy:   ŋun a ŋun ko lo ŋun
+  Beam-3:   ŋun a ŋun ko lo ŋun ŋun.
+  Beam-5:   ŋun ŋun a ko ŋun ŋun.
+
+Length (words):
+  Source: 4 | Reference: 7
+  Greedy: 6 | Beam-3: 7 | Beam-5: 6
+
+================================================================================
+SAMPLE 138
+================================================================================
+Source (EN):      was there ever a prophet your fathers did not persecute? they even killed those who predicted the coming of the righteous one. and now you have betrayed and murdered him —
+Reference (BA):   Lele lo nebijin ŋona kata logon merenyejin kasu köju a ko sasan lɛ Lepeŋat a tatuja ŋutu logon tuggö adi ŋilo Lorigwo mo popo, logon ta soŋinana aje tindu lepeŋ ko merok i könisi, a tatuje lepeŋ.
+
+Translations:
+  Greedy:   Nyenagon a '', ko i,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+  Beam-3:   Nyenagon a '' ko, i na,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+  Beam-5:   Nyenagon a '' ko, i ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+Length (words):
+  Source: 31 | Reference: 37
+  Greedy: 5 | Beam-3: 6 | Beam-5: 6
+
+================================================================================
+SAMPLE 545
+================================================================================
+Source (EN):      the wall was made of jasper, and the city of pure gold, as pure as glass.
+Reference (BA):   A gorom nagon a mariŋ 'duköni ko ŋurupö nagon a yasipidi, a köji 'duköni ko dakap nake gwoso mandara nake.
+
+Translations:
+  Greedy:   Nyenagon ŋutu ''dede,, ti,, a,,,,,,,,,,, adi Kulo logon kulya,,. ta
+  Beam-3:   Nyenagon a ''dede, i na, ti,,,,,,,,,,,, ŋutu logon ko, kulya,, ta,.
+  Beam-5:   Nyenagon a ''dede, i na ti. ŋutu, kulye,,,,, adi Kulo ta ti logon kulya,,,,,,,
+
+Length (words):
+  Source: 16 | Reference: 20
+  Greedy: 10 | Beam-3: 11 | Beam-5: 14
+
+================================================================================
+SAMPLE 71
+================================================================================
+Source (EN):      “so he called in each one of his master’s debtors. he asked the first, `how much do you owe my master?’
+Reference (BA):   Nyena a nye luŋgi ŋutu liŋ geleŋ geleŋ logon a kurjö ŋo ti duma lonyit. A nye pije lo kokwe lo adi, Do a kurjö muda ko duma liɔ
+
+Translations:
+  Greedy:   A a '' ki, i na. a a murek ko i,,,,,,,,,,,,,,,, gwoso,,,,
+  Beam-3:   Kine a '' ki, i na. a a murek ko i gwoso,,, ki murek,,, ki,,,,,,,,,,,,
+  Beam-5:   Kine a '' ki, i na. a a murek ko i,,,,,,,,,,,,,,,,, gwoso,,,, kide lwölwöŋ,
+
+Length (words):
+  Source: 21 | Reference: 29
+  Greedy: 12 | Beam-3: 15 | Beam-5: 14
+
+================================================================================
+SAMPLE 395
+================================================================================
+Source (EN):      to this very hour we go hungry and thirsty, we are in rags, we are brutally treated, we are homeless.
+Reference (BA):   Tojo ko na diŋit yi gwon ko magor se ko kure; yi jupu kereketwat, yi 'bi'bitötu; yi 'bak pirit;
+
+Translations:
+  Greedy:   Ko a gwon kobörik, murek i na,,diŋ a a,,,,,,,,,,,,,,,,,,,,,,,
+  Beam-3:   Ko a gwon kobörik i na,diŋ murek, a iŋge adi ' lobut,,',, a,,,,,,,,,,,,
+  Beam-5:   Ko ŋutu gwon kobörik i na, murek a' kidiŋ ko adi ' lo,,,,,,,,,,,,,,,,,,,,,,,
+
+Length (words):
+  Source: 20 | Reference: 19
+  Greedy: 9 | Beam-3: 13 | Beam-5: 13
+
+================================================================================
+SAMPLE 235
+================================================================================
+Source (EN):      with many other words he warned them; and he pleaded with them, “save yourselves from this corrupt generation.”
+Reference (BA):   A lepeŋ iŋge tokurukindyö lepeŋat ko kulye kulyaesi jore, a jujuje se adi, Lwöki ta 'börik i ŋutu ti na toberon nakwölöŋ na.
+
+Translations:
+  Greedy:   Ta a, adi,,,,, ko,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+  Beam-3:   Ta a, adi,,,,, ko,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+  Beam-5:   Ta a köti adi,,,,,, ko,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+Length (words):
+  Source: 18 | Reference: 23
+  Greedy: 4 | Beam-3: 4 | Beam-5: 5
+
+================================================================================
+SAMPLE 423
+================================================================================
+Source (EN):      the sixth angel sounded his trumpet, and i heard a voice coming from the horns of the golden altar that is before god.
+Reference (BA):   A kirut malaikatat tobuker lo kuddye burugi lonyit; a nan yiŋge gworo wuŋun kaŋo i oŋgwora iŋwan ti pirit 'yuret na rubaŋgajin na tetena ko dakap, na gwon ko ŋun i komoŋ na.
+
+Translations:
+  Greedy:   A ŋutu '' ki, adi a na,,,,,,,,,, ko i na,,,,,,,, kode,,,,,,,,,,,,,,,, ti,
+  Beam-3:   A ŋutu '' ki, adi a na,,,,,,, a ko i na,,,,,,,,,, kode,,,,,,,,,,,,,,,, ti kak
+  Beam-5:   A ŋutu '' ki kulya, nu a a adi ŋuto logonbak na i,,,, ko,,,,,,,,,,,, kode,,,,,,,,,,,
+
+Length (words):
+  Source: 23 | Reference: 33
+  Greedy: 12 | Beam-3: 14 | Beam-5: 15
+
+================================================================================
+SAMPLE 156
+================================================================================
+Source (EN):      then he said to his disciples, “the harvest is plentiful but the workers are few.
+Reference (BA):   A kirut nye kulyani ko ŋutu kanyit kajujumuk kulo adi, Kinyojin aje yoŋe parik, ama kaŋerak ku'dik.
+
+Translations:
+  Greedy:   A ta ko, adi '',,,, a,,, kode,,,,,,,,,,,,,,,,,
+  Beam-3:   A ta, kobörik adi, ta '',, a,,,,,,,,,,, kode,,,,,,,,,,
+  Beam-5:   A ta köti ko adi, ŋutu,, a,,,,,,,,,,,,,,,,,,, kode,,,,,,,
+
+Length (words):
+  Source: 15 | Reference: 17
+  Greedy: 7 | Beam-3: 8 | Beam-5: 8
+
+================================================================================
+SAMPLE 210
+================================================================================
+Source (EN):      now it is god who makes both us and you stand firm in christ. he anointed us, 459
+Reference (BA):   ŋilo a ŋun logon a togo'yu yi se ko ta ko Kristo i mugun lo. Köti lepeŋ a ŋun logon aje welakindya yi i kondya na kita lo.
+
+Translations:
+  Greedy:   Ama a '' ko,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+  Beam-3:   Ama a '' ko i, kode, a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+  Beam-5:   Ama adi '' ko, ti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+Length (words):
+  Source: 18 | Reference: 28
+  Greedy: 4 | Beam-3: 7 | Beam-5: 5
+
+================================================================================
+SAMPLE 372
+================================================================================
+Source (EN):      i looked, and there before me was a white cloud, and seated on the cloud was one “like a son of man” with a crown of gold on his head and a sharp sickle in his hand.
+Reference (BA):   A kirut nan meddi 'diko nakwe gwe nyu, ko lele ŋo gwoso ŋuto si'da kata. Lepeŋ gwon ko loguya logon a dakap kanyit i kwe se ko wale ŋeret logon a lopi kanyit i könin.
+
+Translations:
+  Greedy:   A a ko', i na,, ŋurupö,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+  Beam-3:   A ŋutu a', ko lobut ko,, ŋurupö ko,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+  Beam-5:   A ŋutu a' ko i, geleŋ,, ŋurupö,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+Length (words):
+  Source: 37 | Reference: 35
+  Greedy: 6 | Beam-3: 8 | Beam-5: 7
+
+================================================================================
+SAMPLE 502
+================================================================================
+Source (EN):      nor to devote themselves to myths and endless genealogies. these promote controversies rather than god’s work — which is by faith.
+Reference (BA):   Ko ti se gwe ti yiŋga likikirilön kana se ko kena na karin ti merenyejin nagon ti 'duddyö, gwoso i yuŋwe nase. Kine kulya jondya piyesi kana jore, ama a se tine bulö kita yeyeet na ŋun nagon kita ko yupet.
+
+Translations:
+  Greedy:   A a waddi ko adi,, '' ŋo, ti,,,,, kode,,,,,,,,,,,,,,,,,,,,, '',,Bayin
+  Beam-3:   A a waddi ko adi,, '' ŋo ti, kode,,,,,,,,,,,,,,,,,,,,,,,,,, '',,Bayin
+  Beam-5:   A a waddi ko adi,, '' ŋo,, ti,,,, kode,,,,,,,,,,,,,,,,,,,, ' ',dedekanBayin
+
+Length (words):
+  Source: 21 | Reference: 41
+  Greedy: 10 | Beam-3: 10 | Beam-5: 11
 
 ================================================================================
 SAMPLE 183
 ================================================================================
-Source (EN):      “Show me a denarius. Whose portrait and inscription are on it?”
-Reference (BA):   Kweki ta nan gurusutöt. Ŋina ŋöjinöti se ko kilo wuresi a ti ŋa? A se waddi adi a ti Kaisar.
+Source (EN):      b) descendants of jacob
+Reference (BA):   b) nyakwariat ti Yakobo
 
 Translations:
-  Greedy:   A nagon gwe ko i, nu a a a adi,,.
-  Beam-3:   A nagon gwe ko i na, a nu a Yesu' adi,,. nan
-  Beam-5:   A nagon gwe ko i na, a nu a Yesu', adi Pon.
+  Greedy:   Nyenagon a ko' i,
+  Beam-3:   Nyenagon a ko' i,.
+  Beam-5:   Nyenagon a ko' i,.
 
 Length (words):
-  Source: 11 | Reference: 20
-  Greedy: 10 | Beam-3: 12 | Beam-5: 12
-
-================================================================================
-SAMPLE 450
-================================================================================
-Source (EN):      Now, Lord, consider their threats and enable your servants to speak your word with great boldness.
-Reference (BA):   Nyenagon pon Matat, mete met tokujöndu nase na yi, ko tiki yi kölipönök kulök i jambu na kuIyaet ilot ko topurwan a duma.
-
-Translations:
-  Greedy:   Ti ko lo a, ko, a, ko, a,? a a ko. a' i na, a,.
-  Beam-3:   Ti ko a lobut ko, ko, a? a, ko, a,. ŋutu '' i na, a.
-  Beam-5:   Ti ko a lobut ko, ko, a? a a, ko, a,. a '' i na, a.
-
-Length (words):
-  Source: 16 | Reference: 23
-  Greedy: 15 | Beam-3: 15 | Beam-5: 16
-
-================================================================================
-SAMPLE 228
-================================================================================
-Source (EN):      If you believed Moses, you would believe me, for he wrote about me.
-Reference (BA):   Ko ta ködyö a yup Mose, a ta ködyö yubbe nan, kogwon lepeŋ lo wurjö kulya kwe.
-
-Translations:
-  Greedy:   A a '', i,,,, a, ko,,,. a a, adi Lepeŋat, ti.
-  Beam-3:   A a waddi adi,, '', i na, a, ko,,. a ti,,. a.
-  Beam-5:   A a waddi adi,, '', i, a, ko, a,,. a '', na,.
-
-Length (words):
-  Source: 13 | Reference: 17
-  Greedy: 11 | Beam-3: 12 | Beam-5: 12
-
-================================================================================
-SAMPLE 83
-================================================================================
-Source (EN):      But he was not strong enough, and they lost their place in heaven.
-Reference (BA):   ama a se iŋge tela, a se köti gwe 'bak nene pirit ki yu kwöŋ.
-
-Translations:
-  Greedy:   A ko ŋutu '' i na, a,,,,, ko,, ko,, ko. ko!
-  Beam-3:   A i na ko nagon '' a, ŋutu,,, ko, ko, ko, ko,, ko.! a ko ko.
-  Beam-5:   A i nagon '' ko, a, na,, ko,, ko, ko, ko, ko,, ko.!
-
-Length (words):
-  Source: 13 | Reference: 15
-  Greedy: 11 | Beam-3: 16 | Beam-5: 13
-
-================================================================================
-SAMPLE 77
-================================================================================
-Source (EN):      He chose to be ill-treated along with the people of God rather than to enjoy the pleasures of sin for a short time.
-Reference (BA):   a lepeŋ wulundye sasanya ko ŋutu ti Ŋun i pirit na geleŋ, lwölwöŋ tulyöŋgu mugun ko ŋo ti toron nagon ti si'da diŋit a najo kune.
-
-Translations:
-  Greedy:   Ti ko lo kobörik, a geleŋ, ko,,,,,,,,. a '', na,,,,, ko,
-  Beam-3:   Ti ŋutu lo ko i, geleŋ a kobörik, ko,, ko,, ko,,,,,,,. a '', na.
-  Beam-5:   Ti ŋutu lo ko i, geleŋ a kobörik, ko,, ko,,,,,,,,,,. a '', na.
-
-Length (words):
-  Source: 23 | Reference: 26
-  Greedy: 11 | Beam-3: 14 | Beam-5: 13
-
-================================================================================
-SAMPLE 291
-================================================================================
-Source (EN):      Then Jesus came from Galilee to the Jordan to be baptised by John.
-Reference (BA):   Nyena a Yesu ŋiu kaŋo i Galilaya a pondi Yardene ko Yoane ni i batisa ko lepeŋ.
-
-Translations:
-  Greedy:   Ama ta ' ŋutu i, a kobörik, na., ta ko ta
-  Beam-3:   Ama ta a '' i na, kobörik, ta, ta, ta. ta
-  Beam-5:   Ama ŋutu ta '' i na a, ko,, ta,. ta ko ta, ta....
-
-Length (words):
-  Source: 13 | Reference: 17
-  Greedy: 11 | Beam-3: 11 | Beam-5: 13
-
-================================================================================
-SAMPLE 478
-================================================================================
-Source (EN):      Joseph, a Levite from Cyprus, whom the apostles called Barnabas ,
-Reference (BA):   A lele ŋuto kata karin kanyit a Yosepa, logon luyökie luŋ a Barnaba. Ŋilo ŋuto a Lewityo ko a ŋuto lo Kuprio.
-
-Translations:
-  Greedy:   A na ŋutu ko i, a nu a nye adi,,,.
-  Beam-3:   A i na ŋutu ko, a nu a nye adi,, '',.
-  Beam-5:   A i na ko nagon a, nu a ŋutu jore adi,, '',..
-
-Length (words):
-  Source: 11 | Reference: 22
-  Greedy: 10 | Beam-3: 11 | Beam-5: 12
-
-================================================================================
-SAMPLE 189
-================================================================================
-Source (EN):      The woman was given the two wings of a great eagle, so that she might fly to the place prepared for her in the desert, where she would be taken care of for a time, times and half a time, out of the serpent’s reach.
-Reference (BA):   A ŋina ŋuto tikine köpukön murek ti yuku logon a duma, anyen 'daaddu pajo ko munu i yöbu kata kanyit i pirit nagon rurukarikin lepeŋ 'bura ko kiŋajin musala ko swöt nu.
-
-Translations:
-  Greedy:   Ama a ' i ti, kode i na ko,,,,,,,, ko,,, ko,,, ko,,. a ko, kobörik
-  Beam-3:   Ama ko ti '' i na, a i, kode i,,,,,,,,,, ko,,, ko,,, ko,,. kobörik
-  Beam-5:   Ama ko ti '' i na, kode a, i,,,,,,, ko,, ko,,, ko,,, ko,,, ko,,.
-
-Length (words):
-  Source: 45 | Reference: 32
-  Greedy: 15 | Beam-3: 14 | Beam-5: 14
-
-================================================================================
-SAMPLE 287
-================================================================================
-Source (EN):      We are confident, I say, and would prefer to be away from the body and at home with the Lord.
-Reference (BA):   Yi totopurwan, a yi 'deke ŋiörö i kune mugunya anyen yi tu si'da ko Matat i pirit na geleŋ.
-
-Translations:
-  Greedy:   Ama ko '', i na a,,,,,,,, se,,,,, ko,. a ŋutu lorok kobörik
-  Beam-3:   Ama ko a '', i na,', a,,, se,,,,,,,. ŋutudi a, ko lorok
-  Beam-5:   Ama ŋutu '' ko, i na, a',,,,,, se,,,, ko,, ko., ta kobörik, ko lorok, ko.
-
-Length (words):
-  Source: 20 | Reference: 19
-  Greedy: 12 | Beam-3: 12 | Beam-5: 15
-
-================================================================================
-SAMPLE 193
-================================================================================
-Source (EN):      For while we are in this tent, we groan and are burdened, because we do not wish to be unclothed but to be clothed with our heavenly dwelling, so that what is mortal may be swallowed up by life.
-Reference (BA):   Kogwon na gwondi ködudwöIön kaŋ nyuŋ i kune murugujin na, yi 'du'duatu ko töiIyet Io pömöni. Yi ti 'bön mugunya kaŋ ŋanyaji kaŋo, ama anyen se ködyö mumukö ko kadijik Iudukö; anyen ru böŋö wi'yö ŋo na 'bu'burön kine.
-
-Translations:
-  Greedy:   Ti ko '', a ti i,,,, ko,,, ko,, ta, kobörik ko. a ko ko ko, ko nagon a ko ko.
-  Beam-3:   Ti ko ŋuto '', a ti, i, geleŋ a, nye ko,, ko, ko,, ta, ko. ko nagon '' ko, na.
-  Beam-5:   Ti ko ŋuto '', a ti, i, geleŋ a, nye ko, ko, ko, ko,, ta, ko nagon '', ko. a nabut
-
-Length (words):
-  Source: 39 | Reference: 39
-  Greedy: 20 | Beam-3: 20 | Beam-5: 21
-
-================================================================================
-SAMPLE 357
-================================================================================
-Source (EN):      The apostles said to the Lord, “Increase our faith!” 201
-Reference (BA):   A luyökie kulyani ko Matat adi, 'Yalaki yi nene yupet!
-
-Translations:
-  Greedy:   Ama a ta kobörik, yi ti., ta
-  Beam-3:   Ama a ta kobörik, yi ti., ta ko...
-  Beam-5:   Ama a ti ta kobörik,, yi ko...
-
-Length (words):
-  Source: 10 | Reference: 10
-  Greedy: 7 | Beam-3: 8 | Beam-5: 7
-
-================================================================================
-SAMPLE 245
-================================================================================
-Source (EN):      who through faith conquered kingdoms, administered justice, and gained what was promised; who shut the mouths of lions,
-Reference (BA):   Ko ŋina yupet, a kilo ŋutu iŋge te'ya tumatyanjin, a ririkindye ŋo liŋ gwogwo, a wuji ŋo nagon Ŋun a milyekin tindu se kune. Ko ŋina yupet, a se iŋge mu'dut kutusen ti kömiruöt,
-
-Translations:
-  Greedy:   Ama a lo ko,' i, a,, a,,,,,. a '' i na
-  Beam-3:   Ama ko a lo,' i, a,, a,,,,,. a '' i na
-  Beam-5:   Ama a ŋutu lo', i, a, a,, a, ko, i na,,. a '' i..
-
-Length (words):
-  Source: 18 | Reference: 34
-  Greedy: 11 | Beam-3: 11 | Beam-5: 14
-
-================================================================================
-SAMPLE 597
-================================================================================
-Source (EN):      For he knew it was out of envy that they had handed Jesus over to him.
-Reference (BA):   Kogwon nye a den 'bura adi lepeŋat a wukindya Yesu kanyit i könin kogwon se yiyinöri lepeŋ.
-
-Translations:
-  Greedy:   Ti ta a '' i na, ko nagon a', a,, a,. a a, ko,, ko,, ko.
-  Beam-3:   Ti ta a '' i, nabut ko nagon a' i, geleŋ a a,,,, ko,,, ko. ko, a, ko.
-  Beam-5:   Ti ta a '' i, nabut a ko, a, a,,,. nagon '' ko, a geleŋ a, ko, ko.
-
-Length (words):
-  Source: 16 | Reference: 17
-  Greedy: 16 | Beam-3: 18 | Beam-5: 18
-
-================================================================================
-SAMPLE 409
-================================================================================
-Source (EN):      I, Paul, write this greeting in my own hand, which is the distinguishing mark in all my letters. This is how I write.
-Reference (BA):   Nan Paulo lo wurjö ŋina roman ko könin lio gwak a kweyet i letajin kwe liŋ. Ŋilo a wuret lio.
-
-Translations:
-  Greedy:   Ti ko ti na ta, adi a,,,,,,,,,,. lele '' lwölwöŋ, ko,, ko,, ko.
-  Beam-3:   Ti ko ti na ta, a adi '' i na,,,,,,, ko,,,,, ko,,, ko lwölwöŋ.
-  Beam-5:   Ti ko ti na ta, i na, adi Yi a '' lwölwöŋ, ko,,, ko,,, ko,,, ko.
-
-Length (words):
-  Source: 23 | Reference: 20
-  Greedy: 13 | Beam-3: 14 | Beam-5: 16
-
-================================================================================
-SAMPLE 497
-================================================================================
-Source (EN):      “You are the salt of the earth. But if the salt loses its saltiness, how can it be made salty again? It is no longer good for anything, except to be thrown out and trampled by men.
-Reference (BA):   Ta a 'balaŋ na na kak. Ama ko 'balaŋ a wora pötö nye bubulö to'busa ada? A nye köti gwe 'bak 'bulit ama a gubajine kaŋo i ryoryoka ko mok.
-
-Translations:
-  Greedy:   A ta ko, a i na, ti,,,,,,,,,,,,,,,,,,,. a '', ko,,, ko,,, ko,, ko,, ko,
-  Beam-3:   Ti ta ko, a i na, ti, '',,,,,,,,,,,,,,,,, ko,,,, ko,,, ko,,, ko., ko ŋuto ko,
-  Beam-5:   Gwe ta a ko, i na, ti, '', a,,,,,,,,,,,,,,, ko,, ko,, ko. a, ko ŋuto ko,, ko,, ko.
-
-Length (words):
-  Source: 37 | Reference: 30
-  Greedy: 14 | Beam-3: 15 | Beam-5: 18
+  Source: 4 | Reference: 4
+  Greedy: 4 | Beam-3: 4 | Beam-5: 4
 
 ====================================================================================================
 END OF SAMPLE TRANSLATIONS
