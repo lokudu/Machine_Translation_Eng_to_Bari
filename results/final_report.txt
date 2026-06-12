@@ -1,0 +1,35 @@
+======================================================================
+ENGLISH TO BARI TRANSLATION - FINAL REPORT
+Generated: 2026-06-12 06:37:05
+======================================================================
+
+DATA STATISTICS
+----------------------------------------
+Training pairs: 4,856
+Development pairs: 608
+Test pairs: 608
+Average English length: 22.5 words
+Average Bari length: 27.3 words
+
+TEST SET RESULTS
+----------------------------------------
+GREEDY: BLEU=0.26, chrF=6.58
+BEAM_3: BLEU=0.18, chrF=7.23
+BEAM_5: BLEU=0.25, chrF=7.49
+
+VISUALIZATIONS GENERATED
+----------------------------------------
+1. training_curves.png - Training and validation loss curves
+2. training_progress.png - Comprehensive training progress
+3. bleu_comparison.png - BLEU scores by decoding strategy
+4. error_distribution.png - Error type distribution
+5. length_distribution.png - Sentence length distribution
+6. evaluation_summary.png - Summary of evaluation results
+7. vocabulary_comparison.png - Vocabulary size comparison
+
+FILES GENERATED
+----------------------------------------
+- results/sample_translations.txt
+- results/sample_translations.csv
+- results/sample_translations.html
+- figures/*.png
